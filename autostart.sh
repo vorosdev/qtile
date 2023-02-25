@@ -13,4 +13,5 @@ pavucontrol &
 # Productivity 
 obsidian &
 
-feh --bg-fill /home/vicente/Pictures/Wallpapers/Pictures
+# Wallpaper 
+feh --bg-fill ~/Pictures/Wallpapers/Cars/1.jpg
