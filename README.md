@@ -27,7 +27,7 @@
 - ttf-sourcecodepro-nerd
 - ttf-material-design-icons (AUR)
 
-<div align="center">
+</div>
   <h1>Credits for: https://github.com/jx11r</h1>
 
 <p align="center">
