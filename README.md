@@ -25,6 +25,7 @@
 - qtile-git (AUR)
 - ttf-nerd-fonts-symbols-2048-em
 - ttf-sourcecodepro-nerd
+- ttf-material-design-icons (AUR)
 
 <div align="center">
   <h1>Credits for: https://github.com/jx11r</h1>
