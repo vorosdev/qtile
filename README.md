@@ -30,7 +30,7 @@
   <h1>Credits for: https://github.com/jx11r</h1>
 
 <p align="center">
-  <a href="https://github.com/vorosdev/dotsfiles-qtile/blob/master/LICENSE">
+  <a href="https://github.com/vorosdev/dotfiles-qtile/blob/master/LICENSE">
     <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GPL-3.0&colorA=1e1e2e&colorB=b4befe"/>
   </a>
 </p>
