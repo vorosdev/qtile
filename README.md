@@ -26,6 +26,7 @@
 - ttf-nerd-fonts-symbols-2048-em
 - ttf-sourcecodepro-nerd
 - ttf-material-design-icons (AUR)
+- i3lock-color-git (AUR)
 
 </div>
   <h1>Credits for: https://github.com/jx11r</h1>
