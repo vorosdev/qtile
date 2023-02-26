@@ -34,4 +34,4 @@ i3lock \
 --time-str="%H:%M:%S"        \
 --date-str="%A, %d-%m-%Y"    \
 --keylayout 1                \
--i /home/vicente/Pictures/Wallpapers/Anime/lucy.png   \
+-i /home/USER/Pictures/Wallpapers/Anime/lucy.png   \
