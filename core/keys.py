@@ -81,7 +81,7 @@ for key in [
   ([mod, 'control'], 'p', lazy.spawn("notion-app")),
 
   # LockScreen 
-  ([mod, 'control'], 'l', lazy.spawn("sh /home/vicente/.i3lock/lock.sh")),
+  ([mod, 'control'], 'l', lazy.spawn("sh /home/USER/.config/qtile/.i3lock/lock.sh")),
 
   # Messenger 
   ([mod, 'control'], 'm', lazy.spawn("caprine"))
